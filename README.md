@@ -2,8 +2,6 @@
 
 The **COVID-19 Global Vaccine Tracker** is an interactive Tableau dashboard that visualises global COVID-19 vaccination data. This project was created to enable users to explore trends in vaccination rates, distribution, and coverage by country, helping to provide insights into the global progress of COVID-19 immunisation efforts.
 
-![COVID-19 Global Vaccine Tracker](https://public.tableau.com/thumb/COVID-19GlobalVaccineTracker_17292286493790/Dashboard)
-
 ## 📊 Dashboard Highlights
 
 - **Vaccination Coverage**: View vaccination rates across different countries and regions.
